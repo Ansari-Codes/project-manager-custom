@@ -1,9 +1,9 @@
 <script setup>
-import Page from './pages/Page.vue';
+import Main from './Main.vue';
 </script>
 
 <template>
-<Page></Page>
+<Main></Main>
 </template>
 
 <style scoped></style>
